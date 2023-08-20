@@ -1,0 +1,22 @@
+{"listOfItems": [
+    {
+        "itemName": "book",
+        "itemCategory": "school",
+        "itemDate": {
+            "month": 2,
+            "year": 2022,
+            "day": 2
+        },
+        "itemPrice": 22
+    },
+    {
+        "itemName": "cake",
+        "itemCategory": "food",
+        "itemDate": {
+            "month": 12,
+            "year": 2021,
+            "day": 2
+        },
+        "itemPrice": 12
+    }
+]}

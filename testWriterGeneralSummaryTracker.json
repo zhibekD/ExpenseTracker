@@ -1,0 +1,22 @@
+{"listOfItems": [
+    {
+        "itemName": "book",
+        "itemCategory": "education",
+        "itemDate": {
+            "month": 12,
+            "year": 2020,
+            "day": 2
+        },
+        "itemPrice": 10
+    },
+    {
+        "itemName": "pen",
+        "itemCategory": "education",
+        "itemDate": {
+            "month": 12,
+            "year": 2020,
+            "day": 1
+        },
+        "itemPrice": 2
+    }
+]}
