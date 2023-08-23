@@ -1,7 +1,7 @@
-package model;
+package model.src.main.model;
 
 import org.json.JSONObject;
-import persistence.Writable;
+import model.src.main.persistence.Writable;
 
 // Represents an Item with name, price, category, and date that can be added to the Item List
 // implements Writable

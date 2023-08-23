@@ -1,7 +1,7 @@
-package ui;
+package model.src.main.ui;
 
-import model.EventLog;
-import model.Event;
+import model.src.main.model.EventLog;
+import model.src.main.model.Event;
 
 import java.io.FileNotFoundException;
 

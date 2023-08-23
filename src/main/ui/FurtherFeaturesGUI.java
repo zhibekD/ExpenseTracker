@@ -1,9 +1,9 @@
-package ui;
+package model.src.main.ui;
 
-import model.Item;
-import model.SummaryTracker;
-import persistence.JsonReader;
-import persistence.JsonWriter;
+import model.src.main.model.SummaryTracker;
+import model.src.main.model.Item;
+import model.src.main.persistence.JsonReader;
+import model.src.main.persistence.JsonWriter;
 
 import javax.swing.*;
 import java.awt.*;

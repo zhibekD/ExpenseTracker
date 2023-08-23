@@ -1,6 +1,6 @@
-package persistence;
+package model.src.main.persistence;
 
-import model.SummaryTracker;
+import model.src.main.model.SummaryTracker;
 import org.json.JSONObject;
 import java.io.*;
 

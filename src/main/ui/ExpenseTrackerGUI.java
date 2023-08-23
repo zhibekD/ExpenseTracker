@@ -1,8 +1,8 @@
-package ui;
+package model.src.main.ui;
 
-import model.Date;
-import model.Item;
-import model.SummaryTracker;
+import model.src.main.model.SummaryTracker;
+import model.src.main.model.Date;
+import model.src.main.model.Item;
 
 import javax.swing.*;
 import java.awt.*;

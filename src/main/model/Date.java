@@ -1,10 +1,10 @@
-package model;
+package model.src.main.model;
 
 // Represents the date with month, day, and year as integers.
 // Converts them into the string with MM-DD-YYYY format.
 
 import org.json.JSONObject;
-import persistence.Writable;
+import model.src.main.persistence.Writable;
 
 public class Date implements Writable {
 

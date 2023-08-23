@@ -1,5 +1,7 @@
-package model;
+package model.src.tests.model;
 
+import model.src.main.model.Date;
+import model.src.main.model.Item;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

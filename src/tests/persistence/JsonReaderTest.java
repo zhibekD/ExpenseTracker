@@ -1,7 +1,8 @@
-package persistence;
+package model.src.tests.persistence;
 
-import model.Item;
-import model.SummaryTracker;
+import model.src.main.model.SummaryTracker;
+import model.src.main.persistence.JsonReader;
+import model.src.main.model.Item;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;

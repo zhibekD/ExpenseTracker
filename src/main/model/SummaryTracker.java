@@ -1,8 +1,8 @@
-package model;
+package model.src.main.model;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
-import persistence.Writable;
+import model.src.main.persistence.Writable;
 
 import java.util.ArrayList;
 

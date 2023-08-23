@@ -1,6 +1,7 @@
-package persistence;
+package model.src.tests.persistence;
 
-import model.Item;
+import model.src.main.model.Item;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class JsonTest {

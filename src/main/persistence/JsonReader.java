@@ -1,8 +1,6 @@
-package persistence;
+package model.src.main.persistence;
 
-import model.Date;
-import model.Item;
-import model.SummaryTracker;
+import model.src.main.model.SummaryTracker;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -11,6 +9,8 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.stream.Stream;
 
+import model.src.main.model.Date;
+import model.src.main.model.Item;
 import org.json.*;
 
 // Represents a reader that reads summary tracker from JSON data stored in file
